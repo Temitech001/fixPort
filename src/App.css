@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.carousel {
+  padding: 5rem;
+  background-color: #fff;
+  height: 100vh;
+}
+.box {
+  background-color: lightgreen;
+  height: 300px;
+}
+.box h3 {
+  text-align: center;
+}
