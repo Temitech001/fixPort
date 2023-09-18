@@ -1,7 +1,7 @@
 const GetIn = () => {
   return (
-    <div className="text-center m-[auto] mt-9 w-[100%] max-w-[80%]">
-      <h1 className=" text-slate-500 text-3xl font-bold text-center mt-9 ">
+    <div className="text-center m-[auto]  w-[100%] max-w-[80%] mt-6">
+      <h1 className=" text-slate-500 text-3xl font-bold text-center  ">
         GET IN TOUCH
       </h1>
       <p className="mt-9">

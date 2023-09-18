@@ -5,7 +5,7 @@ const Secperson = () => {
   return (
     <div
       id="about"
-      className="mt-5"
+      className="mt-5 h-screen"
     >
       <h1 className="  text-center text-4xl font-bold text-slate-500">
         PERSONA BLURB

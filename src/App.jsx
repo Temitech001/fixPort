@@ -17,6 +17,7 @@ function App() {
       <Secperson />
       <Tech />
       <Experience />
+
       <GetIn />
       <Cor />
       <Socialicon />

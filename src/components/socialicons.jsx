@@ -11,7 +11,7 @@ const iconmessage =
 
 const Socialicons = () => {
   return (
-    <div className="flex mt-9 justify-center lg:absolute lg:top-0 lg:left-0 xl:fixed xl:top-[100px]  xl:left-0 lg:ml-16 xl:ml-6  ">
+    <div className="flex mt-9 justify-center lg:absolute lg:top-0 lg:left-0 xl:fixed xl:top-[100px]  xl:left-0 lg:ml-16 xl:ml-  ">
       <div className="flex  xl:flex-col xl:flex lg:flex-col lg:flex relative items-center  gap-9 ">
         <a
           target="_blank"
