@@ -1,6 +1,6 @@
 // import Mypics from '../assets/temi.jpg';
 const image =
-  'https://res.cloudinary.com/dutvrzezk/image/upload/v1694693887/IMG_1360_ryl8jk.jpg';
+  'https://res.cloudinary.com/dutvrzezk/image/upload/v1695112715/newpics_ecj2hh.jpg';
 const Secperson = () => {
   return (
     <div
