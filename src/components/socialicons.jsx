@@ -9,7 +9,7 @@ const icongit =
 const iconmessage =
   'https://res.cloudinary.com/dutvrzezk/image/upload/v1694940758/meesaicon.png1_mf7uhd.png';
 
-const Socialicons = () => {
+const SocialIcons = () => {
   return (
     <div className="flex mt-9 justify-center lg:absolute lg:top-0 lg:left-0 xl:fixed xl:top-[100px]  xl:left-0 lg:ml-16 xl:ml-  ">
       <div className="flex  xl:flex-col xl:flex lg:flex-col lg:flex relative items-center  gap-9 ">
@@ -74,4 +74,4 @@ const Socialicons = () => {
   );
 };
 
-export default Socialicons;
+export default SocialIcons;

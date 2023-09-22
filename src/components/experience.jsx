@@ -2,7 +2,7 @@ const Experience = () => {
   return (
     //note if the relative affect the mobil view
     <div
-      className="mt-[300px] sm:mt-[0px] sm:bottom-[300px] relative"
+      className="mt-[300px] sm:mt-[0px] relative"
       id="experience"
     >
       <div>

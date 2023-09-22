@@ -1,9 +1,12 @@
-const Tech = () => {
+const TechPage = () => {
   return (
-    <div className=" text-slate-500 text-3xl font-bold text-center  h-screen flex flex-col  ml-[80px]">
+    <div
+      id="tech-stack"
+      className=" text-slate-500 text-3xl font-bold text-center lg:h-screen xl: h-screen flex flex-col relative  align-middle ml-[80px]"
+    >
       <div className=" ">
-        <h1 className=""> Tech Stack</h1>
-        <div className="grid grid-cols-3 ml-7 gap-3">
+        <h1 className="mt-9">Tech Stack</h1>
+        <div className="grid grid-cols-3 ml-7 gap-3 mt-[130px]">
           <div>
             <img
               className="w-[90px]"
@@ -72,4 +75,4 @@ const Tech = () => {
     </div>
   );
 };
-export default Tech;
+export default TechPage;

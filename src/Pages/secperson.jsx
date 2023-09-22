@@ -1,7 +1,7 @@
 // import Mypics from '../assets/temi.jpg';
 const image =
   'https://res.cloudinary.com/dutvrzezk/image/upload/v1695112715/newpics_ecj2hh.jpg';
-const Secperson = () => {
+const SecPerson = () => {
   return (
     <div
       id="about"
@@ -68,4 +68,4 @@ const Secperson = () => {
   );
 };
 
-export default Secperson;
+export default SecPerson;

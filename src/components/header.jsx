@@ -1,3 +1,5 @@
+import SocialIcons from './socialicons';
+
 const Header = () => {
   const about = ` Frontend Develope| I'm a freelance Fullstack Web Developer with a
   passion for crafting exceptional digital experiences. My expertise lies
@@ -7,6 +9,7 @@ const Header = () => {
   outstanding solutions tailored to your needs.`;
   return (
     <div className="mt-8 text-lg bg-white ml-10 md:ml-18 lg:ml-56 ">
+      <SocialIcons />
       <p className="mt-16 font-semibold ">Hi, the name is</p>
       <h1 className="text-4xl  font-bold ">Monsuru Samuel.</h1>
       <h1 className="text-4xl  font-bold text-slate-500 mt-5">
